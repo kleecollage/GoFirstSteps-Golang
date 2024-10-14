@@ -1,4 +1,4 @@
-module hola
+module github.com/kleecollage/GoFirstSteps-Golang
 
 go 1.23.2
 
