@@ -1,4 +1,4 @@
-**Nota:** Este proyecto contiene un paquete para usarse
+> **Nota:** Este proyecto contiene un paquete para usarse
 # Saludos en Go
 Este paquete proporciona una lista de salidos que pueden usarse en Go
 
