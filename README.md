@@ -1,10 +1,11 @@
+***Nota: Este proyecto contiene un paquete para usarse ***
 # Saludos en Go
-Este paquete proporciona una lista de funciones basicas que puede usarse en Go
+Este paquete proporciona una lista de salidos que pueden usarse en Go
 
 ## Instalacion
 Ejecuta el siguiente comando para instalar  el paquete:
 ```bash
-go get -u github.com/kleecollage/GoFirstSteps-Golang
+go get -u github.com/kleecollage/GoFirstSteps-Golang/greetings
 ```
 
 ## Uso
