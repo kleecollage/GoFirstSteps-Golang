@@ -4,7 +4,7 @@ Este paquete proporciona una lista de funciones basicas que puede usarse en Go
 ## Instalacion
 Ejecuta el siguiente comando para instalar  el paquete:
 ```bash
-go get -u github.com/kleecollage/GoFirstSteps-Golang.git
+go get -u github.com/kleecollage/GoFirstSteps-Golang
 ```
 
 ## Uso
